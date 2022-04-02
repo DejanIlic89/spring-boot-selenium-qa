@@ -30,19 +30,9 @@ public class AllureListener implements StepLifecycleListener {
     @Override
     public void afterStepUpdate(StepResult result) {
         if (result.getStatus().equals(Status.FAILED) || result.getStatus().equals(Status.BROKEN)) {
-//            allureScreenshot();
-//            System.out.println("test");
-//            byte[] screenShot = screenshotService.getScreenShot();
-            byte[] screenShot = ctx.getBean(ScreenshotService.class).getScreenshot();
-            Allure.getLifecycle().addAttachment(result.getName(), "image/png", "png", screenShot);
-//            Allure.getLifecycle().addAttachment(result.getName(), "image/png", "png", takeScreenshotFail());
-//            Allure.addAttachment("Test", new Date().toString());
+//            byte[] screenShot = ctx.getBean(ScreenshotService.class).getScreenshot();
+//            Allure.getLifecycle().addAttachment(result.getName(), "image/png", "png", screenShot);
         }
     }
-
-//    @TakeScreenshot
-//    private void allureScreenshot() {
-//        log.info("Taking failure screenshot...");
-//    }
 
 }

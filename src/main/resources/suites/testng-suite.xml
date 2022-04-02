@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="spring-boot" data-provider-thread-count="2">
+<!--    <test name="test-1">-->
+<!--        <classes>-->
+<!--            <class name="com.udemy.springbootseleniumqa.googletest.Google1Test" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test-2">-->
+<!--        <classes>-->
+<!--            <class name="com.udemy.springbootseleniumqa.googletest.Google2Test" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test-3">-->
+<!--        <classes>-->
+<!--            <class name="com.udemy.springbootseleniumqa.googletest.Google1Test" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test-4">-->
+<!--        <classes>-->
+<!--            <class name="com.udemy.springbootseleniumqa.googletest.Google2Test" />-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="test-5">-->
+<!--        <parameter name="dobFrom" value="1995-01-01"/>-->
+<!--        <parameter name="dobTo" value="1997-01-01"/>-->
+<!--        <classes>-->
+<!--            <class name="com.udemy.springbootseleniumqa.visa.UserVisaTest" />-->
+<!--        </classes>-->
+<!--    </test>-->
+
+    <test name="Test Suite">
+        <classes>
+            <class name="com.udemy.springbootseleniumqa.runner.CucumberRunner"/>
+        </classes>
+    </test>
+
+</suite>

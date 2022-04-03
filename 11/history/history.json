@@ -1,0 +1,65 @@
+{
+  "2842fd8b85d4b260a3dd830455b1c868" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "729f4b74449de008",
+      "reportUrl" : "https://DejanIlic89.github.io/spring-boot-selenium-qa/11//#testresult/729f4b74449de008",
+      "status" : "broken",
+      "statusDetails" : "Error creating bean with name 'remoteChromeDriver' defined in class path resource [com/udemy/springbootseleniumqa/kelvin/config/RemoteWebDriverConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.openqa.selenium.WebDriver]: Factory method 'remoteChromeDriver' threw exception; nested exception is org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Unable to parse remote response: \n<html lang=\"en-US\">\n\t<head>\n\t\t<meta charset=\"utf-8\">\n    <meta name=\"author\" content=\"ngrok\">\n    <meta name=\"description\" content=\"ngrok is the fastest way to put anything on the internet with a single command.\">\n    <meta name=\"robots\" content=\"noindex, nofollow\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\t\t<link id=\"style\" rel=\"stylesheet\" href=\"https://cdn.ngrok.com/static/css/error.css\">\n\t\t<noscript>Tunnel 7311-2a06-5b00-6fd-1d00-8042-b2e7-1de-72bc.ngrok.io not found (ERR_NGROK_3200)</noscript>\n\t\t<script id=\"script\" src=\"https://cdn.ngrok.com/static/js/error.js\" type=\"text/javascript\"></script>\n\t</head>\n\t<body id=\"ngrok\">\n\t\t<div id=\"root\" data-payload=\"eyJjZG5CYXNlIjoiaHR0cHM6Ly9jZG4ubmdyb2suY29tLyIsImNvZGUiOiIzMjAwIiwibWVzc2FnZSI6IlR1bm5lbCA3MzExLTJhMDYtNWIwMC02ZmQtMWQwMC04MDQyLWIyZTctMWRlLTcyYmMubmdyb2suaW8gbm90IGZvdW5kIiwidGl0bGUiOiJOb3QgRm91bmQifQ==\"></div>\n\t</body>\n</html>\n",
+      "time" : {
+        "start" : 1648990299965,
+        "stop" : 1648990300289,
+        "duration" : 324
+      }
+    } ]
+  },
+  "6dc964e8fe97793416d5be6d4b88fb0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "95f4099c39b36bc5",
+      "reportUrl" : "https://DejanIlic89.github.io/spring-boot-selenium-qa/11//#testresult/95f4099c39b36bc5",
+      "status" : "broken",
+      "statusDetails" : "Error creating bean with name 'remoteChromeDriver' defined in class path resource [com/udemy/springbootseleniumqa/kelvin/config/RemoteWebDriverConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.openqa.selenium.WebDriver]: Factory method 'remoteChromeDriver' threw exception; nested exception is org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Unable to parse remote response: \n<html lang=\"en-US\">\n\t<head>\n\t\t<meta charset=\"utf-8\">\n    <meta name=\"author\" content=\"ngrok\">\n    <meta name=\"description\" content=\"ngrok is the fastest way to put anything on the internet with a single command.\">\n    <meta name=\"robots\" content=\"noindex, nofollow\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\t\t<link id=\"style\" rel=\"stylesheet\" href=\"https://cdn.ngrok.com/static/css/error.css\">\n\t\t<noscript>Tunnel 7311-2a06-5b00-6fd-1d00-8042-b2e7-1de-72bc.ngrok.io not found (ERR_NGROK_3200)</noscript>\n\t\t<script id=\"script\" src=\"https://cdn.ngrok.com/static/js/error.js\" type=\"text/javascript\"></script>\n\t</head>\n\t<body id=\"ngrok\">\n\t\t<div id=\"root\" data-payload=\"eyJjZG5CYXNlIjoiaHR0cHM6Ly9jZG4ubmdyb2suY29tLyIsImNvZGUiOiIzMjAwIiwibWVzc2FnZSI6IlR1bm5lbCA3MzExLTJhMDYtNWIwMC02ZmQtMWQwMC04MDQyLWIyZTctMWRlLTcyYmMubmdyb2suaW8gbm90IGZvdW5kIiwidGl0bGUiOiJOb3QgRm91bmQifQ==\"></div>\n\t</body>\n</html>\n",
+      "time" : {
+        "start" : 1648990298289,
+        "stop" : 1648990299810,
+        "duration" : 1521
+      }
+    } ]
+  },
+  "860339c94c727834e0c2ab1b0c1b3936" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf7d7dc0aec3ec6",
+      "reportUrl" : "https://DejanIlic89.github.io/spring-boot-selenium-qa/11//#testresult/cf7d7dc0aec3ec6",
+      "status" : "broken",
+      "statusDetails" : "Error creating bean with name 'remoteChromeDriver' defined in class path resource [com/udemy/springbootseleniumqa/kelvin/config/RemoteWebDriverConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.openqa.selenium.WebDriver]: Factory method 'remoteChromeDriver' threw exception; nested exception is org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Unable to parse remote response: \n<html lang=\"en-US\">\n\t<head>\n\t\t<meta charset=\"utf-8\">\n    <meta name=\"author\" content=\"ngrok\">\n    <meta name=\"description\" content=\"ngrok is the fastest way to put anything on the internet with a single command.\">\n    <meta name=\"robots\" content=\"noindex, nofollow\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\t\t<link id=\"style\" rel=\"stylesheet\" href=\"https://cdn.ngrok.com/static/css/error.css\">\n\t\t<noscript>Tunnel 7311-2a06-5b00-6fd-1d00-8042-b2e7-1de-72bc.ngrok.io not found (ERR_NGROK_3200)</noscript>\n\t\t<script id=\"script\" src=\"https://cdn.ngrok.com/static/js/error.js\" type=\"text/javascript\"></script>\n\t</head>\n\t<body id=\"ngrok\">\n\t\t<div id=\"root\" data-payload=\"eyJjZG5CYXNlIjoiaHR0cHM6Ly9jZG4ubmdyb2suY29tLyIsImNvZGUiOiIzMjAwIiwibWVzc2FnZSI6IlR1bm5lbCA3MzExLTJhMDYtNWIwMC02ZmQtMWQwMC04MDQyLWIyZTctMWRlLTcyYmMubmdyb2suaW8gbm90IGZvdW5kIiwidGl0bGUiOiJOb3QgRm91bmQifQ==\"></div>\n\t</body>\n</html>\n",
+      "time" : {
+        "start" : 1648990298291,
+        "stop" : 1648990299883,
+        "duration" : 1592
+      }
+    } ]
+  }
+}

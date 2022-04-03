@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://DejanIlic89.github.io/spring-boot-selenium-qa",
+  "buildOrder" : 11,
+  "buildName" : "GitHub Actions Run #2085319914",
+  "buildUrl" : "https://github.com/DejanIlic89/spring-boot-selenium-qa/actions/runs/2085319914",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://DejanIlic89.github.io/spring-boot-selenium-qa/11/"
+} ]
